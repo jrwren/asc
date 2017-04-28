@@ -1,0 +1,5 @@
+Azure Storage Client
+
+blob support only
+
+az storage blob download - was amazingly slow. I can't believe it, so I want to try go instead of python.
