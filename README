@@ -1,5 +1,9 @@
-Azure Storage Client
+## Azure Storage Client
 
-blob support only
+### blob support only
 
 az storage blob download - was amazingly slow. I can't believe it, so I want to try go instead of python.
+
+## Program usage
+
+go run main.go [-l] [a:container/]src [a:container/]dst:
